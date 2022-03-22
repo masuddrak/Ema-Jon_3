@@ -2,3 +2,9 @@
     display: grid;
     grid-template-columns: 4fr 1fr;
 }
+.shoes-items{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    justify-items: center;
+    gap: 30px;
+}

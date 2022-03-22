@@ -1,0 +1,28 @@
+.products{
+    border: 1px solid orange;
+    border-radius: 10px;
+    position: relative;
+    height: 500px;
+    width: 300px;
+}
+.products-info img{
+    width: 250px;
+    border-radius: 10px;
+}
+.products-info{
+    margin: 20px;
+}
+.card-btn{
+    width: 100%;
+    position: absolute;
+    border-radius: 10px;
+    border: none;
+    padding: 10px;
+    bottom:0;
+    background-color: burlywood;
+   
+}
+.card-btn:hover{
+   background-color: orange;
+   
+}
